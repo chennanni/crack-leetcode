@@ -21,7 +21,7 @@ Algorithm
 - Greedy
 
 ## Genaral Thinking Approach
-- 迭代
+- 循环OR迭代
 - 分类讨论
 - 逆向思维
 
