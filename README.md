@@ -24,3 +24,6 @@ Algorithm
 - 迭代
 - 分类讨论
 - 逆向思维
+
+## Links
+- http://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm
