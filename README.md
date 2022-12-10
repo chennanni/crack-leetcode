@@ -1,24 +1,34 @@
 # crack-leetcode
 
 ## Topics
-Data Structure (Java Collection API)
-- Array
-- String
-- Hash Table/(HashMap)
-- Linked List
-- Stack
-- (Heap)
-- Tree
-- Graph
 
-Algorithm
-- Sort
-- Binary Search
-- BFS/DFS
-- Divide and Conquer
-- Dynamic Programming
-- Backtracking
-- Greedy
+1. 基本算法
+- 循环 Iteration
+- 迭代 Recursion
+- 搜索（二分法）Binary Search
+- 排序（快排）Quick Sort
+
+2. 数据结构
+- 数组 Array
+- 链表 Linked-list
+- 键值对/散列表 Map
+- 列表 List
+- 队列 Queue
+- 栈 Stack
+- 树 Tree
+- 图 Graph
+
+3. 高阶算法
+- 广度优先搜索算法 DFS
+- 狄克斯特拉算法 Dijkstra
+- 贪婪 Greedy
+- 动态规划 Dynamic Programming
+- 回溯 Backtracking
+- 分治算法 Divide and Conquer
+
+4. 补充
+- 位运算
+- 用空间换时间
 
 ## Genaral Thinking Approach
 - 循环OR迭代
