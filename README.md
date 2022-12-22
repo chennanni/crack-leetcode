@@ -30,11 +30,7 @@
 - 位运算
 - 用空间换时间
 
-## Genaral Thinking Approach
-- 循环OR迭代
-- 分类讨论
-- 逆向思维
-
 ## Links
-- http://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm
-- http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview
+- [algorithms_basics](http://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)
+- [top-10-algorithms](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People @ Aditya Bhargava](https://book.douban.com/subject/26979890/)
